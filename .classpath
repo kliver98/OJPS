@@ -2,6 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="UvaJudge"/>
 	<classpathentry kind="src" path="HackerRank"/>
+	<classpathentry kind="src" path="HackerEarth"/>
+	<classpathentry kind="src" path="Kattis"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

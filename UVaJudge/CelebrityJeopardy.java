@@ -1,6 +1,10 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-
+/**
+ * 
+ * @author Kliver Daniel
+ *
+ */
 public class CelebrityJeopardy {
 
 	public static void main(String[] args) throws Exception {

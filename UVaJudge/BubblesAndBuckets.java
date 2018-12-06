@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/**
+ * 
+ * @author Kliver Daniel
+ *
+ */
 public class BubblesAndBuckets {
 
 	static int mergeSort(int arr[], int array_size) { 

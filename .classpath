@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="UvaJudge"/>
+	<classpathentry kind="src" path="UVaJudge"/>
 	<classpathentry kind="src" path="HackerRank"/>
 	<classpathentry kind="src" path="HackerEarth"/>
 	<classpathentry kind="src" path="Kattis"/>
